@@ -1,0 +1,7 @@
+alias gco='git checkout'
+alias gb='git branch'
+alias gcon='git checkout -b'
+alias glo='git log --oneline'
+alias gr='git rebase'
+alias gst='git status'
+alias gf='git fetch'
